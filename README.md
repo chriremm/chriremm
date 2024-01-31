@@ -1,5 +1,4 @@
-Christian Remmelberger
-Computer Science Student @ TU Munich
+
 
 <!---
 chriremm/chriremm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
